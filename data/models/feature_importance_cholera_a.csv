@@ -1,0 +1,10 @@
+feature,mean_abs_shap
+rainfall_variability,0.13182393
+max_rainfall_mm,0.121411934
+max_temperature_c,0.07307884
+total_rainfall_mm,0.018272555
+mean_rainfall_mm,0.0052126776
+mean_temperature_c,0.0
+min_temperature_c,0.0
+temp_range_c,0.0
+peak_rainfall_month,0.0

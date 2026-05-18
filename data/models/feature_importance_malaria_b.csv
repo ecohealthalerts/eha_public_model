@@ -1,0 +1,11 @@
+feature,mean_abs_shap
+avg_rainfall_mm_roll3,0.55633074
+mean_temperature_celcius_roll3,0.43448588
+avg_rainfall_mm,0.34616014
+avg_rainfall_mm_lag1,0.17711532
+month_cos,0.1375301
+mean_temperature_celcius_lag1,0.098686464
+avg_rainfall_mm_lag2,0.09856381
+month_sin,0.09783677
+mean_temperature_celcius_lag2,0.08359524
+mean_temperature_celcius,0.07206374
